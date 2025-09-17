@@ -1,0 +1,10 @@
+:root{
+    /* CSS HEX */
+    --rosa: #dabfffff;
+    --lilas: #907ad6ff;
+    --violeta: #4f518cff;
+    --roxo: #2c2a4aff;
+}
+body{
+    background-color: var(--violeta);
+}
